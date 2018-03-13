@@ -1,6 +1,6 @@
 # Recipe for the Dragon Paneer Chilli
 
-_These is a list of the ingredients:_
+_Here is a list of the ingredients:_
 
 * 5 tbsp Ching's Schezwan Chutney
 * 1 Cup Paneer Cubes
