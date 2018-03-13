@@ -26,4 +26,4 @@
 *Garnish with chopped spring onion & serve hot.*
 
 
-![Paneer_chilli](Paneer_Chilli.jpg)
+![Paneer_chilli](recipes/Paneer_Chilli.jpg)
