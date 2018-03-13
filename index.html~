@@ -31,7 +31,7 @@
     <div class="column">
     </div>
     <div class="column">
-      <div id="pinacolada"><script>include("recipes/pinacolada.md", "pinacolada")</script></div>
+      <!-- <div id="pinacolada"><script>include("recipes/pinacolada.md", "pinacolada")</script></div> -->
     </div>
     <div class="column">
     </div>
