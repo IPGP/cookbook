@@ -1,5 +1,7 @@
 # Recipe for the Dragon Paneer Chilli
 
+![DragonPaneerChilli.jpg](http://www.foodista.com/sites/default/files/dragon%20Paneer%20Chilli.jpg)
+
 _Here is a list of the ingredients:_
 
 * 5 tbsp Ching's Schezwan Chutney
