@@ -3,6 +3,7 @@
 
 
 ![Lemon.jpeg](recipes/Lemon.jpeg)
+![pierro](http://www.ipgp.fr/sites/all/scripts/ldapjpegphoto.php?email=burckel@ipgp.fr)
 
 - Ingredients
  -Juice and zest of two lemons
