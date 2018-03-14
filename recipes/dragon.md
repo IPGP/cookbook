@@ -1,4 +1,4 @@
-# Dragon Paneer Chilli recipe
+# Dragon Paneer Chilli recipe (v2)
 
 
 ![photo](recipes/dragon.jpg)
