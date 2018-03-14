@@ -1,6 +1,6 @@
-#japanese noodles recipe
-## Preparation details:
-![photo](/home/venkatesh/Downloads/japanese.jpg)
+# Japanese noodles recipe
+### Preparation details:
+![photo](recipes/japanese.jpg)
 - Over medium high heat in a wok, melt the butter.
 - Toss in garlic and saute until fragrant.
 - Toss in noodles and stir to mix.
