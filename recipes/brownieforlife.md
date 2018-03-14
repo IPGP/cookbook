@@ -2,7 +2,7 @@
 ## by Pauline Bonnet
 The link of the recipe is here : [here](http://www.foodista.com/recipe/CZHSL3D2/best-pecan-pie-brownies)
 
-![brownieimage](brownieforlife_photo.jpg)
+![brownieimage](recipes/brownieforlife_photo.jpg)
 
 ## Ingredients
 
