@@ -1,8 +1,6 @@
-Seafood
+# Seafood
 
-----------------------------------
-by nono montabert, papuche and tux
-----------------------------------
+## by nono montabert, papuche and tux
 
 Let's try to put a link to another website : [here](http://www.foodista.com/blog/2018/02/22/gut-health-week-seafood-brown-rice-with-lemongrass-and-cilantro)
 
